@@ -1,6 +1,6 @@
 from PIL import Image
 import os
-image_path = input("Enter the path to the image: ").strip('"')
+image_path = input("Enter the path to the image here").strip('"')
 
 if not os.path.isfile(image_path):
     print(f"File not found: {image_path}")
