@@ -6,6 +6,7 @@ This repository contains practical implementations of fundamental and advanced i
       Read and Display Image
       Contrast Stretching
       Negative Image
+      Cumulative Distribution Function
       
 
 ## 🎯 Purpose
