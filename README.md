@@ -7,6 +7,7 @@ This repository contains practical implementations of fundamental and advanced i
       Contrast Stretching
       Negative Image
       Cumulative Distribution Function
+      Histogram Equilization
       
 
 ## 🎯 Purpose
