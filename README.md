@@ -8,6 +8,7 @@ This repository contains practical implementations of fundamental and advanced i
       Negative Image
       Cumulative Distribution Function
       Histogram Equilization
+      Histogram Specification
       
 
 ## 🎯 Purpose
