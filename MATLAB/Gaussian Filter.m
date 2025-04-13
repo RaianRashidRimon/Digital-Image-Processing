@@ -1,4 +1,4 @@
-img = imread('/MATLAB Drive/noisy_image.jpg');
+img = imread('Enter the path to the image here');
 filterSize = 10;
 sigma = 15;
 h = fspecial('gaussian', filterSize, sigma);
