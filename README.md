@@ -9,6 +9,7 @@ This repository contains practical implementations of fundamental and advanced i
       Cumulative Distribution Function
       Histogram Equilization
       Histogram Specification
+      Gaussian Filter
       
 
 ## 🎯 Purpose
