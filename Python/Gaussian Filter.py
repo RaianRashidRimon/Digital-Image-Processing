@@ -3,7 +3,7 @@ import numpy as np
 from matplotlib import pyplot as plt
 
 # Read the image
-img = cv2.imread('D:/Academics/Semesters/4-1/Lab/Digital Image Processing Laboratory/Programs/1Github/Lab4/noisy_image.jpg')  
+img = cv2.imread('Enter the path to the image here')  
 img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)    
 
 # Define filter parameters
