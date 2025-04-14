@@ -10,6 +10,7 @@ This repository contains practical implementations of fundamental and advanced i
       Histogram Equilization
       Histogram Specification
       Gaussian Filter
+      Laplacian Kernel
       
 
 ## 🎯 Purpose
