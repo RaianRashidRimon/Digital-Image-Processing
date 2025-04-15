@@ -4,7 +4,7 @@ from scipy.interpolate import RegularGridInterpolator
 import imageio.v2 as imageio
 
 # Read the image
-img = imageio.imread('D:\\Academics\\Semesters\\4-1\\Lab\\Digital Image Processing Laboratory\\Programs\\Lab4\\stray.jpg')  # Replace with your actual image path
+img = imageio.imread('Enter the path to the image here')  # Replace with your actual image path
 
 scale_x = 6
 scale_y = 4
