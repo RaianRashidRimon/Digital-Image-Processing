@@ -11,7 +11,7 @@ This repository contains practical implementations of fundamental and advanced i
       Histogram Specification
       Gaussian Filter
       Laplacian Kernel
-      
+      Resizing using Linear Interpolation
 
 ## 🎯 Purpose
 The goal of this repository is to provide a hands-on approach to learning digital image processing. With both MATLAB and Python implementations included, users can compare approaches and understand how core concepts translate across platforms.
