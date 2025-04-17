@@ -1,4 +1,4 @@
-img = imread('/MATLAB Drive/noisy_image.jpg');
+img = imread('Enter image path here');
 filterSize = 3;
 h = fspecial('average', filterSize);
 [rows, cols, numChannels] = size(img);
