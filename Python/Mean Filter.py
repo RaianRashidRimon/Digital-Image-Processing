@@ -4,7 +4,7 @@ from scipy.ndimage import convolve
 import imageio.v2 as imageio
 
 
-img = imageio.imread('D:\\Academics\\Semesters\\4-1\\Lab\\Digital Image Processing Laboratory\\Programs\\Lab4\\noisy_image.jpg')
+img = imageio.imread('Enter image path here')
 img = img.astype(np.uint8)
 
 filter_size = 6
