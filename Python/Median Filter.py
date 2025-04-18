@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 
-input_image = cv2.imread('D:\\Academics\\Semesters\\4-1\\Lab\\Digital Image Processing Laboratory\\Programs\\Lab4\\noisy_image.jpg')
+input_image = cv2.imread('Enter your image path here')
 input_image_rgb = cv2.cvtColor(input_image, cv2.COLOR_BGR2RGB)
 
 filter_size = 3
