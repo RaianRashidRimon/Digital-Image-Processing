@@ -1,4 +1,4 @@
-inputImage = imread('/MATLAB Drive/noisy_image.jpg');
+inputImage = imread('Enter your image path here');
 filterSize = 3;
 [rows, cols, numChannels] = size(inputImage);
 filteredImage = zeros(rows, cols, numChannels, 'like', inputImage);
