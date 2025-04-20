@@ -1,4 +1,4 @@
-img = imread('/MATLAB Drive/stray.jpg');
+img = imread('Enter your image path here');
 newRows = 500; 
 newCols = 500; 
 [originalRows, originalCols, numChannels] = size(img);
