@@ -15,6 +15,7 @@ This repository contains practical implementations of fundamental and advanced i
       Mean Filter
       Median Filter
       Pixel Skipping
+      Resizing Using Replication
       
 
 ## 🎯 Purpose
