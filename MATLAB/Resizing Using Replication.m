@@ -9,11 +9,9 @@ for r = 1:newRows
     for c = 1:newCols
         origRow = round((r - 0.5) * rowScale + 0.5);
         origCol = round((c - 0.5) * colScale + 0.5);
-        
         origRow = max(1, min(originalRows, origRow));
         origCol = max(1, min(originalCols, origCol));
-        
-        resizedImg(r, c, :) = img(origRow, origCol, :); % Keep RGB channels
+        resizedImg(r, c, :) = img(origRow, origCol, :); 
     end
 end
 figure('Position', [100, 100, 600, 800]);
