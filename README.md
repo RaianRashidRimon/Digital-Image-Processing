@@ -14,6 +14,7 @@ This repository contains practical implementations of fundamental and advanced i
       Resizing using Linear Interpolation
       Mean Filter
       Median Filter
+      Pixel Skipping
       
 
 ## 🎯 Purpose
