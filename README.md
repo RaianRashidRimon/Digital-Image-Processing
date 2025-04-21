@@ -17,6 +17,10 @@ This repository contains practical implementations of fundamental and advanced i
       Pixel Skipping
       Resizing Using Replication
       Edge Detection
+            1. Sobel Edge Detection
+            2. Prewitt Edge Detection
+            3. Isotropic Edge Detection
+            4. Roberts Edge Detection
             
       
 
