@@ -16,6 +16,8 @@ This repository contains practical implementations of fundamental and advanced i
       Median Filter
       Pixel Skipping
       Resizing Using Replication
+      Edge Detection
+            
       
 
 ## 🎯 Purpose
