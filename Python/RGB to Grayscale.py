@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import imageio.v2 as imageio
 from skimage.color import rgb2gray
 
-img = imageio.imread('C:\\Users\\Admin\\OneDrive\\Desktop\\mario.jpeg')
+img = imageio.imread('Enter your image path here')
 grayscale_img = rgb2gray(img)
 
 plt.figure(figsize=(10, 5))
