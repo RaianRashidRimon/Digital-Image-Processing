@@ -21,7 +21,8 @@ This repository contains practical implementations of fundamental and advanced i
             2. Prewitt Edge Detection
             3. Isotropic Edge Detection
             4. Roberts Edge Detection
-      Displaying RGB Channels of an Image      
+      Displaying RGB Channels of an Image
+      RGB to Grayscale
       
 
 ## 🎯 Purpose
