@@ -23,6 +23,7 @@ This repository contains practical implementations of fundamental and advanced i
             4. Roberts Edge Detection
       Displaying RGB Channels of an Image
       RGB to Grayscale
+      RGB to HSI
       
 
 ## 🎯 Purpose
