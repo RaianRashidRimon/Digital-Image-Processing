@@ -1,5 +1,5 @@
 function rgb_to_hsi_demo()
-    RGB = imread('C:\Users\CSELAB-2\Desktop\403 DIP lab 6\spooderman.jpeg'); 
+    RGB = imread('Enter your image path here'); 
     HSI = rgb2hsi(RGB);
     figure('Position', [100, 100, 1200, 800]);
     subplot(2, 3, 1);
