@@ -1,4 +1,4 @@
-originalImage = imread('C:\Users\CSELAB-2\Desktop\403 DIP lab 7\ryse.jpg');
+originalImage = imread('Enter your image path here');
 if size(originalImage, 3) == 3
     binaryImage = imbinarize(rgb2gray(originalImage));
 else
