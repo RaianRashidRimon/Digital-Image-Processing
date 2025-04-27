@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from skimage import io, color, morphology
 from skimage.filters import threshold_otsu
 
-img = io.imread('C:\\Users\\Admin\\OneDrive\\Desktop\\ryse.jpg')
+img = io.imread('Enter your image path here')
 
 if img.ndim == 3:
     gray = color.rgb2gray(img)
