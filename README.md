@@ -26,6 +26,7 @@ This repository contains practical implementations of fundamental and advanced i
       RGB to HSI
       Erosion Operation
       Dilation Operation
+      Open and Close Operation
 
 ## 🎯 Purpose
 The goal of this repository is to provide a hands-on approach to learning digital image processing. With both MATLAB and Python implementations included, users can compare approaches and understand how core concepts translate across platforms.
