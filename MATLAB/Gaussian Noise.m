@@ -1,0 +1,11 @@
+originalImage = imread('Enter your image path here');
+originalImage = im2double(originalImage);
+gaussianVariance = 0.5;
+gaussianNoiseImage = imnoise(originalImage, 'gaussian', 0, gaussianVariance);
+figure;
+subplot(1,2,1);
+imshow(originalImage);
+title('Original Image');
+subplot(1,2,2);
+imshow(gaussianNoiseImage);
+title('Image with Gaussian Noise');
