@@ -1,0 +1,11 @@
+img = imread('Enter your image path here');
+edges = edge(rgb2gray(img), 'Canny');
+[centers1, radii1] = imfindcircles(edges, [20 60], 'ObjectPolarity', 'bright', 'Sensitivity', 0.92);
+[centers2, radii2] = imfindcircles(edges, [61 100], 'ObjectPolarity', 'bright', 'Sensitivity', 0.92);
+centers = [centers1; centers2];
+radii = [radii1; radii2];
+figure;
+imshow(img), hold on;
+viscircles(centers, radii, 'EdgeColor', 'b');
+title('Detected Circles');
+hold off;
