@@ -52,7 +52,7 @@ Whether you're studying for coursework, prototyping a vision system, or explorin
 
 
 ## 🤝 Contribution
-
+Contributions are highly encouraged! If you identify any issues, have suggestions for improvement, or want to add new algorithms, feel free to:
 
 
 
